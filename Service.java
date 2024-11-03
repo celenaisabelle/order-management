@@ -42,3 +42,4 @@ public class Service {
         return serviceName + " - $" + price + " - " + duration + " min";
     }
 }
+
